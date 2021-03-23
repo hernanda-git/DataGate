@@ -1,0 +1,9 @@
+G:\WORKING FOLDER\CLASS-LIBRARY\DataGate\bin\Debug\netstandard2.0\DataGate.deps.json
+G:\WORKING FOLDER\CLASS-LIBRARY\DataGate\bin\Debug\netstandard2.0\DataGate.dll
+G:\WORKING FOLDER\CLASS-LIBRARY\DataGate\bin\Debug\netstandard2.0\DataGate.pdb
+G:\WORKING FOLDER\CLASS-LIBRARY\DataGate\obj\Debug\netstandard2.0\DataGate.csprojAssemblyReference.cache
+G:\WORKING FOLDER\CLASS-LIBRARY\DataGate\obj\Debug\netstandard2.0\DataGate.AssemblyInfoInputs.cache
+G:\WORKING FOLDER\CLASS-LIBRARY\DataGate\obj\Debug\netstandard2.0\DataGate.AssemblyInfo.cs
+G:\WORKING FOLDER\CLASS-LIBRARY\DataGate\obj\Debug\netstandard2.0\DataGate.csproj.CoreCompileInputs.cache
+G:\WORKING FOLDER\CLASS-LIBRARY\DataGate\obj\Debug\netstandard2.0\DataGate.dll
+G:\WORKING FOLDER\CLASS-LIBRARY\DataGate\obj\Debug\netstandard2.0\DataGate.pdb
